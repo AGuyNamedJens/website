@@ -1,9 +1,9 @@
 title: 'Test site :)'
 description: A bold typographic theme inspired by Swiss design.
-social_link: twitter
-social_username: broccolini
-github_repo: athena
-github_username: broccolini
+social_link: discord
+social_username: aguynamedjensbot
+github_repo: website
+github_username: aguynamedjens
 theme_color: black
 remote_theme: internet-de-france/swiss
 baseurl: /website
